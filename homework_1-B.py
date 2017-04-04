@@ -1,0 +1,2 @@
+COLOR= 3+5
+print COLOR
